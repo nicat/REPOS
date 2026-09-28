@@ -1,0 +1,2 @@
+print(f'Nicat Babarabov\n18.09.2026\nThe importance of python in cybersecurity makes me motivated to learn python.On the other hand the syntax of python is simple enough, so logic we use in our code is more important than learning complex syntax')
+#Python is interpreted language. When we run the code, translator translate every line of code sequentially into machine code.If there is any error in the code, we can see the location of that. 
